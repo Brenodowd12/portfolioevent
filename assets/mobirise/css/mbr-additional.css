@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Gloria+Hallelujah:400);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -20,7 +21,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Gloria Hallelujah', handwriting;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
@@ -1288,17 +1289,20 @@ body {
   display: none;
 }
 .cid-qYb2eWseGW {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #55b4d4;
 }
 .cid-qYb2eWseGW .mbr-section-subtitle {
   color: #767676;
 }
+.cid-qYb2eWseGW H2 {
+  color: #ffffff;
+}
 .cid-qYb24l4Q7X {
-  padding-top: 90px;
+  padding-top: 30px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #149dcc;
 }
 .cid-qYb24l4Q7X .mbr-section-subtitle {
   color: #767676;
@@ -1353,17 +1357,20 @@ body {
     height: auto !important;
   }
 }
+.cid-qYb24l4Q7X H2 {
+  color: #ffffff;
+}
 .cid-qYb3LJRE8o {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #55b4d4;
 }
 .cid-qYb3LJRE8o .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
 .cid-qYb3LJRE8o .number-wrap {
-  color: #565656;
+  color: #ffffff;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
@@ -1382,7 +1389,7 @@ body {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #28262b;
+  color: #ffffff;
 }
 .cid-qYb3LJRE8o .period {
   display: block;
@@ -1404,7 +1411,7 @@ body {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #28262b;
+  color: #ffffff;
 }
 .cid-qYb3LJRE8o .countdown-cont {
   max-width: 700px;
@@ -1439,6 +1446,10 @@ body {
   .cid-qYb3LJRE8o .period {
     font-size: 0.8rem;
   }
+}
+.cid-qYb3LJRE8o H2 {
+  color: #ffffff;
+  text-align: center;
 }
 .cid-qYb4hfNJH2 .google-map {
   height: 25rem;
